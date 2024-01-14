@@ -1,0 +1,8 @@
+1. Implementasi Username & Password State
+2. Disable Button ketika username & password belum terisi
+3. Show/Hide pada Field Password
+4. Fungsi Login
+5. Validasi jika username / password salah
+6. Menampilkan List semua Feed
+7. Tombol Like
+8. Menambahkan Animasi Pada Screenshot

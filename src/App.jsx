@@ -1,15 +1,10 @@
-import LoginPage from "./pages/LoginPage";
 import FeedPage from "./pages/FeedPage";
-import { useState } from "react";
+import LoginPage from "./pages/LoginPage";
 
 function App() {
-  const [currentUser, setCurrentUser] = useState();
 
-  return currentUser ? (
-    <FeedPage currentUser={currentUser} />
-  ) : (
-    <LoginPage setCurrentUser={setCurrentUser} />
-  );
+  return <FeedPage />
+
 }
 
 export default App;
