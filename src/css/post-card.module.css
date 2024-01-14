@@ -1,0 +1,40 @@
+.post-card {
+  width: 500px;
+  margin-bottom: 2rem;
+}
+
+.post-image {
+  border: 1px solid #dedede;
+  border-radius: 10px;
+}
+
+.post-profile-container {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 0.5rem;
+  align-items: center;
+  font-weight: 700;
+}
+
+.post-profile-picture {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.post-caption {
+  padding-left: 4px;
+}
+
+.post-caption span {
+  font-weight: 700;
+  margin-right: 5px;
+}
+
+.post-like {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}

@@ -1,0 +1,18 @@
+.like-button {
+  background-color: transparent;
+  border: 0;
+  outline: 0;
+  transition: .2s;
+}
+
+.like-button svg {
+  transition: .2s;
+}
+
+.like-button:active svg {
+  padding: 5px;
+}
+
+.like-button:hover {
+  cursor: pointer;
+}

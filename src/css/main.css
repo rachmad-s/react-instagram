@@ -1,0 +1,72 @@
+* {
+  margin: 0;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif;
+  line-height: 1.5;
+}
+
+img,
+picture,
+video,
+canvas,
+svg {
+  display: block;
+  max-width: 100%;
+}
+
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  overflow-wrap: break-word;
+}
+
+p,
+div,
+span {
+  font-size: 14px;
+}
+
+.login-form {
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  padding: 3rem 0;
+}
+
+.forgot-password {
+  font-size: 12px;
+}
+
+.feed-container {
+  overflow: auto;
+  padding: 3rem 0;
+  gap: 2rem;
+  flex: 1;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+}
+
+.error-message {
+  color: red;
+}

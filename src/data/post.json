@@ -1,0 +1,72 @@
+[
+    {
+        "id": "post-0001",
+        "userId": "user-001",
+        "caption": "simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "imageUrl": "https://img.freepik.com/free-vector/colorful-2024-english-calendar-template-plan-organize-events-vector_1017-46094.jpg?w=1380&t=st=1705194876~exp=1705195476~hmac=d573108bb401fd4ef0e24439d719f479135e66f525dc08b80a759c5eecb0ce4c",
+        "totalLikes": 20
+    },
+    {
+        "id": "post-0002",
+        "userId": "user-001",
+        "caption": "when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries",
+        "imageUrl": "https://img.freepik.com/free-photo/autumn-season-leafs-plant-scene-generative-ai_188544-7971.jpg?w=1800&t=st=1705194958~exp=1705195558~hmac=95c148ddf2603a5a3c62c5e95257d12b1ad0d2ee015b91ea1e600eee30d98779",
+        "totalLikes": 78
+    },
+    {
+        "id": "post-0003",
+        "userId": "user-001",
+        "caption": "It is a long established fact that a reader will be distracted",
+        "imageUrl": "https://img.freepik.com/free-photo/digital-tablet-photography-design-studio-editing-concept_53876-146880.jpg?w=1800&t=st=1705195009~exp=1705195609~hmac=62c30e1122a24d5138ac55f1fb0c7371311d2937807325eadaa6d6ed33391d8f",
+        "totalLikes": 92
+    },
+    {
+        "id": "post-0004",
+        "userId": "user-002",
+        "caption": "Lorem Ipsum is that it has a more-or-less normal distribution of letters",
+        "imageUrl": "https://img.freepik.com/free-photo/influencer-posting-social-media_23-2149194122.jpg?w=1800&t=st=1705195035~exp=1705195635~hmac=ba1b462396bc734df2e67ef5223fda8101df35cd601dde40e92c1ab07467ac9d",
+        "totalLikes": 54
+    },
+    {
+        "id": "post-0005",
+        "userId": "user-002",
+        "caption": "here are many variations of passages of Lorem Ipsum ",
+        "imageUrl": "https://img.freepik.com/free-photo/empty-online-radio-studio-broadcasting-room-with-professional-microphone-video-light-used-podcast-transmission-video-podcasting-setup-with-digital-mixer-console-laptop-computer_482257-33423.jpg?w=1800&t=st=1705195060~exp=1705195660~hmac=81b506320971ba3191755717bd5c058d72b513560a6bb7cab8454bf9bb17f683",
+        "totalLikes": 209
+    },
+    {
+        "id": "post-0006",
+        "userId": "user-002",
+        "caption": "Contrary to popular belief, Lorem Ipsum is not simply random text",
+        "imageUrl": "https://img.freepik.com/free-vector/startup-landing-page-web-template_23-2148317383.jpg?w=1800&t=st=1705195076~exp=1705195676~hmac=fc5b9a8a3467e76cc9aae10ec573054d81204b8907b318e165b8158cbefb7bb4",
+        "totalLikes": 167
+    },
+    {
+        "id": "post-0007",
+        "userId": "user-003",
+        "caption": "Can you help translate this site into a foreign language ?",
+        "imageUrl": "https://img.freepik.com/free-photo/happy-woman-doing-vlog-home_23-2148764502.jpg?w=1800&t=st=1705195096~exp=1705195696~hmac=5b173821df9a66c959940a926f765747076b6303ca91a8150e71f932020b6b16",
+        "totalLikes": 768
+    },
+    {
+        "id": "post-0008",
+        "userId": "user-003",
+        "caption": "The standard chunk of Lorem Ipsum used since the 1500s",
+        "imageUrl": "https://img.freepik.com/free-vector/vintage-typeface-named-barbershop-good-font-use-any-vintage-logo_1284-53309.jpg?w=1380&t=st=1705195143~exp=1705195743~hmac=9903129d9235df647c417415db602cd56385f3cb3af7c93b824ca180e490203e",
+        "totalLikes": 20
+    },
+    {
+        "id": "post-0009",
+        "userId": "user-003",
+        "caption": "It was popularised in the 1960s with the release of Letraset sheets",
+        "imageUrl": "https://img.freepik.com/free-vector/newspaper-front-page-design-poster-with-world-breaking-news-headlines-dark-wood-background-realistic_1284-20216.jpg?w=1380&t=st=1705195181~exp=1705195781~hmac=683874c3b532ff6e97fd09ad8c718504d8263b9bf1c8ba9e6241aa22ade1a3f1",
+        "totalLikes": 900
+    },
+    {
+        "id": "post-0010",
+        "userId": "user-003",
+        "caption": "Various versions have evolved over the years, sometimes by accident,",
+        "imageUrl": "https://img.freepik.com/free-photo/anime-character-with-dragon-illustration_23-2151117613.jpg?t=st=1705195211~exp=1705198811~hmac=628674b9c123febf843ea7ba65dda50b63ebb9f5b8e9511404f48f65b91965c7&w=826",
+        "totalLikes": 50
+    }
+]

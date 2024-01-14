@@ -1,0 +1,15 @@
+
+.container {
+    position: relative;
+}
+
+.screenshot {
+    position: absolute;
+    top: 25px;
+    right: 56px;
+    z-index: 1;
+    width: 236px;
+    height: 510px;
+    background-size: cover;
+    transition: 1s;
+}
