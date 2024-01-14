@@ -3,21 +3,18 @@
         "id": "user-001",
         "username": "alucard123",
         "password": "123123",
-        "name": "Alucard",
-        "profileUrl": "https://img.freepik.com/free-photo/young-man-looking-up_155003-10420.jpg?w=1800&t=st=1705195267~exp=1705195867~hmac=747330e9a1d80ac8c0443fd904ddbfb7a50a09c05311e76a8f8536f6566357c2"
+        "name": "Alucard"
     },
     {
         "id": "user-002",
         "username": "zilong123",
         "password": "123123",
-        "name": "Zilong",
-        "profileUrl": "https://img.freepik.com/free-photo/confident-attractive-caucasian-guy-beige-pullon-smiling-broadly-while-standing-against-gray_176420-44508.jpg?w=1800&t=st=1705198074~exp=1705198674~hmac=0aa5008c4dcbf40d1d86ad00697d8bf28b412a3ddab5610f0b223c4ca3249b94"
+        "name": "Zilong"
     },
     {
         "id": "user-003",
         "username": "layla",
         "password": "123123",
-        "name": "Layla",
-        "profileUrl": "https://img.freepik.com/free-photo/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction_176420-15187.jpg?w=1800&t=st=1705198097~exp=1705198697~hmac=62ef224efcb7953ed594ed01c35474a578dbaa625bf31b78cd758f183321030d"
+        "name": "Layla"
     }
 ]

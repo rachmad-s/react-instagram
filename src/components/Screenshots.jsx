@@ -1,6 +1,6 @@
 import phoneImage from "./../assets/phone.png";
 import screenshot1 from "./../assets/screenshot1.png";
-import css from "./../css/instagram-animation.module.css";
+import css from "./../css/screenshots.module.css";
 
 function InstagramAnimation() {
   return (
